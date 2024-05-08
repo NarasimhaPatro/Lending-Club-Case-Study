@@ -1,11 +1,11 @@
 # Lending Club Case Study
-> ##Objective
+> Objective
 - [Identifying Risk Factors]: The primary goal is to identify consumer and loan attributes that significantly influence the likelihood of loan default. This involves examining patterns and correlations within the data to pinpoint variables that serve as strong indicators of default risk.
 - [Risk Mitigation]: By understanding the driving factors behind loan default, the company aims to develop strategies to mitigate credit risk. This could include refining its lending criteria, adjusting interest rates, or implementing other risk management measures to minimize financial losses associated with defaulting borrowers.
 - [Portfolio Optimization]: Insight gained from EDA can inform portfolio optimization strategies. By identifying and managing riskier loan applicants more effectively, the company can optimize its loan portfolio to improve overall profitability and sustainability.
 - [Enhancing Risk Assessment Models]: The findings from the analysis can be used to enhance existing risk assessment models or develop new predictive models for more accurate identification of high-risk applicants. This can improve the company's ability to make informed decisions regarding loan approvals and reduce instances of default.
 - [Business Decision Support]: Ultimately, the objective is to provide actionable insights that support strategic decision-making within the company. This may involve recommending specific actions such as adjusting lending policies, reallocating resources, or implementing targeted marketing strategies to mitigate risk and improve - overall loan performance.
-- ##Outcome: By achieving these objectives, the company aims to enhance its ability to identify and manage credit risk effectively, ultimately leading to improved financial performance and sustainable growth in the competitive consumer finance market.
+- Outcome: By achieving these objectives, the company aims to enhance its ability to identify and manage credit risk effectively, ultimately leading to improved financial performance and sustainable growth in the competitive consumer finance market.
 
 
 
