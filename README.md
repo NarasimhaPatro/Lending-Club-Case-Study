@@ -51,7 +51,7 @@ Reach out the creators on,
     - [Narasimha Patro](https://www.linkedin.com/in/narasimha-patro)
 
 - Github:
-    - [Narasimha Patro](https://github.com/Sureshkrishh)
+    - [Narasimha Patro](https://github.com/NarasimhaPatro)
 
 <!-- Optional -->
 <!-- ## License -->
