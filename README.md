@@ -18,10 +18,9 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- This case study explores loan data from a consumer finance company. We'll be working with the loan.csv
+- Our Mission: Uncover the key factors influencing loan defaults. This analysis will equip the company to make informed decisions for risk assessment and portfolio management.
+-This case study is part of the EDA module for the upGrad & IIITB Machine Learning & AI Program (February 2024 batch).
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
