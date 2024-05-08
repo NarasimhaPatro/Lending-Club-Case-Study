@@ -1,5 +1,12 @@
 # Lending Club Case Study
-> Outline a brief description of your project.
+> ##Objective
+- [Identifying Risk Factors]: The primary goal is to identify consumer and loan attributes that significantly influence the likelihood of loan default. This involves examining patterns and correlations within the data to pinpoint variables that serve as strong indicators of default risk.
+- [Risk Mitigation]: By understanding the driving factors behind loan default, the company aims to develop strategies to mitigate credit risk. This could include refining its lending criteria, adjusting interest rates, or implementing other risk management measures to minimize financial losses associated with defaulting borrowers.
+- [Portfolio Optimization]: Insight gained from EDA can inform portfolio optimization strategies. By identifying and managing riskier loan applicants more effectively, the company can optimize its loan portfolio to improve overall profitability and sustainability.
+- [Enhancing Risk Assessment Models]: The findings from the analysis can be used to enhance existing risk assessment models or develop new predictive models for more accurate identification of high-risk applicants. This can improve the company's ability to make informed decisions regarding loan approvals and reduce instances of default.
+- [Business Decision Support]: Ultimately, the objective is to provide actionable insights that support strategic decision-making within the company. This may involve recommending specific actions such as adjusting lending policies, reallocating resources, or implementing targeted marketing strategies to mitigate risk and improve - overall loan performance.
+- ##Outcome: By achieving these objectives, the company aims to enhance its ability to identify and manage credit risk effectively, ultimately leading to improved financial performance and sustainable growth in the competitive consumer finance market.
+
 
 
 ## Table of Contents
@@ -26,11 +33,14 @@
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- pandas - version 2.0.3
+- numpy - version 1.25.2
+- matplotlib - version 3.7.1
+- seaborn - version 0.13.1
+- random
+- string
+- warnings
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
