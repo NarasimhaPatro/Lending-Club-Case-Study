@@ -25,10 +25,10 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Enhance Verification Processes - Implement stricter verification procedures to reduce the risk associated with unverified loans. Use advanced data analytics to assess borrower credibility and enhance loan performance. By tightening our loan verification processes, we can significantly mitigate risk and improve the accuracy of our lending decisions
+- Tailored Loan Products for Debt Consolidation - Develop specialized loan products for debt consolidation to cater to the primary borrowing need. Offer competitive interest rates and flexible terms to encourage refinancing with our institution. By tightening our loan verification processes, we can significantly mitigate risk and improve the accuracy of our lending decisions.
+- Educational Initiatives for Borrowers - Launch financial literacy programs to help borrowers manage their debt more effectively. Provide tools and resources to aid in better financial decision-making and credit management. Financial education can empower our borrowers to make informed decisions, reducing defaults and fostering long-term customer loyalty.
+- Marketing Strategies - Target marketing efforts towards stable, long-term employed individuals and homeowners, who typically present lower risk. Utilize insights from loan purposes to drive promotions and product offerings. Utilizing demographic and financial behaviour insights allows us to target our marketing more effectively, reaching the most promising potential borrowers.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
