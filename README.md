@@ -44,11 +44,7 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+The upGrad & IIITB content benefits from Anand S's clear and insightful explanation, making the topic of Exploratory Data Analysis (EDA) easier to understand.
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
