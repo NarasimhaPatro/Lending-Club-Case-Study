@@ -46,9 +46,12 @@
 ## Acknowledgements
 The upGrad & IIITB content benefits from Anand S's clear and insightful explanation, making the topic of Exploratory Data Analysis (EDA) easier to understand.
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
+Reach out the creators on,
+- Linkedin:
+    - [Narasimha Patro](https://www.linkedin.com/in/narasimha-patro)
 
+- Github:
+    - [Narasimha Patro](https://github.com/Sureshkrishh)
 
 <!-- Optional -->
 <!-- ## License -->
