@@ -20,6 +20,15 @@
 - Our Mission: Uncover the key factors influencing loan defaults. This analysis will equip the company to make informed decisions for risk assessment and portfolio management.
 -This case study is part of the EDA module for the upGrad & IIITB Machine Learning & AI Program (February 2024 batch).
 
+## Technologies Used
+- pandas - version 2.0.3
+- numpy - version 1.25.2
+- matplotlib - version 3.7.1
+- seaborn - version 0.13.1
+- random
+- string
+- warnings
+  
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
@@ -29,15 +38,6 @@
 - Marketing Strategies - Target marketing efforts towards stable, long-term employed individuals and homeowners, who typically present lower risk. Utilize insights from loan purposes to drive promotions and product offerings. Utilizing demographic and financial behaviour insights allows us to target our marketing more effectively, reaching the most promising potential borrowers.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Technologies Used
-- pandas - version 2.0.3
-- numpy - version 1.25.2
-- matplotlib - version 3.7.1
-- seaborn - version 0.13.1
-- random
-- string
-- warnings
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
